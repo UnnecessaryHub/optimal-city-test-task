@@ -17,3 +17,6 @@ pnpm run dev
 - Quasar
 - Typescript
 -  Vite
+---
+### Мой Github
+https://github.com/Gearonix
