@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/optimal-city-test-task',
+  base: '/optimal-city.test-task',
   plugins: [vue()],
   server: {
     port: 3000
